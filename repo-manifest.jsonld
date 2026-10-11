@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/encode/savannah/commit/291e73d45559ec2fa93a7b92953333316c53c70d",
       "git:hexsha": "291e73d45559ec2fa93a7b92953333316c53c70d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

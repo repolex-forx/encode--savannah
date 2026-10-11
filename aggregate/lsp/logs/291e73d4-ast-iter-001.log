@@ -1,0 +1,7 @@
+[2026-10-11T07:51:12Z] === AST ITERATION 1 START | repo=encode/savannah sha=291e73d4 ===
+[2026-10-11T07:51:12Z] [iter=1] PHASE START: ast repo=encode/savannah sha=291e73d4
+[2026-10-11T07:51:12Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T07:51:15Z] [iter=1] AST chunks built count=1 triples=29007
+[2026-10-11T07:51:15Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/291e73d45559ec2fa93a7b92953333316c53c70d/.complete
+[2026-10-11T07:51:15Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.0
+[2026-10-11T07:51:15Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
